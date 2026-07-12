@@ -1,0 +1,20 @@
+{
+  "name": "ubiquitous-octo-tribble",
+  "version": "1.0.0",
+  "description": "backend",
+  "homepage": "https://github.com/Dio-X/ubiquitous-octo-tribble#readme",
+  "bugs": {
+    "url": "https://github.com/Dio-X/ubiquitous-octo-tribble/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dio-X/ubiquitous-octo-tribble.git"
+  },
+  "license": "ISC",
+  "author": "dio",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
